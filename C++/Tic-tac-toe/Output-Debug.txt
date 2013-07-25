@@ -1,0 +1,8 @@
+﻿'Tic-tac-toe.exe': Loaded 'C:\Users\Student\Desktop\FASEHUN\C++\Tic-tac-toe\Debug\Tic-tac-toe.exe', Symbols loaded.
+'Tic-tac-toe.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Tic-tac-toe.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Tic-tac-toe.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Tic-tac-toe.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'Tic-tac-toe.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+The thread 'Win32 Thread' (0x176c) has exited with code -1073741510 (0xc000013a).
+The program '[2136] Tic-tac-toe.exe: Native' has exited with code -1073741510 (0xc000013a).

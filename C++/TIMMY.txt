@@ -1,0 +1,208 @@
+BASICS
+
+Syntax: language
+
+; (end of every line in C++)
+python the semi colon is not needed
+
+code > compiler, translate it into binary numbers 
+COMPUTERS ARE DUMB
+ all code in main function, normally use void main
+\
+
+
+
+first one always remember \
+
+s#include <iostream>
+using namespace std;
+void main() 
+{
+	cout << "Hello World";
+	system ("pause");
+}
+
+
+
+
+library: collection of functions thaat computer can use only if you include it
+
+namespace is different kind of library,
+
+c out is standard function
+void main is  the function
+variables; a box where you store data
+types of variables
+int- whole numbers only 
+double- decimal point moreprecise
+float- floating point, lessprecise
+string- include the string library, array of characters
+boolean- true or false, 1 or 0
+char- a, b, etc, letter but also a letter representation of a number
+
+initializing a variable 
+type name = value 
+to add string  #include <string>
+\multiple in<< must be on different lines
+
+
+if (condition)
+{
+do stuff
+}
+else(conditio)
+{do stuff
+}
+
+
+
+if (condition)
+{
+do stuff
+}
+else if (condition)
+{
+do stuff
+}
+
+else (condition)
+{
+do stuff
+}
+
+
+
+
+Switch(variable)
+case(condition)
+{do stuff}
+break;
+case(condition2)
+{do stuff}
+break;
+default
+{stuff}
+break
+
+
+
+
+LOOPS
+for 
+while
+do-while
+
+
+for (inti=0; condition; i++)
+{
+do stuff
+}
+
+
+
+
+do
+{stuff}
+while(condition)
+
+
+3 ways to input on array
+
+for loop is the best way to put it in an array
+
+
+type name [size]
+
+
+int arr [5]
+
+for A(int i=0; i<5; i++)
+
+
+hard coding 
+arr [index]
+arr [0]
+arr [1]
+arr [2]
+arr [3]
+...
+
+INITIALIZATION
+int arr = {1,2,3,4,5};
+
+
+FUNCTIONS
+type  name (parameters)
+
+double add(double x, double y)
+{
+	return x+ y;
+}
+for functions, you always have to use,. return
+
+last function is void\ print sees out the parameter
+void print (parameter)
+{cout << param;
+}void does not return , if it does not return it is void
+
+
+
+Classes 
+
+
+Class name 
+{
+
+};
+must put semi colon after the brackets\
+public and private are the two types of classes
+
+type(any one but void)  get (np)
+void is the type here set (np)
+
+
+int set Age (int newAge)
+{
+return new age;
+} 
+
+void set age (int newAges)
+{
+	age = newAge;
+}
+
+if it was public it would be 
+name, age =v something
+
+
+
+Pointer
+
+and symbol-& means address of something eg
+int* x = &y
+this means that x is pointing to the address of y
+
+int x = address of y
+
+
+* means points to
+eg 
+x = *y;
+the value is pointing to x
+so if y is 5, x becomes y
+
+
+3 things that are key to being programmers \
+1. DEBUGGING\
+2. FORMATTING\
+3. GOOGLE\S
+FOR C++
+1. PONTEERS
+
+
+
+ARRAY
+wehen you want to traverse an array, the best one to use is for loop
+
+
+
